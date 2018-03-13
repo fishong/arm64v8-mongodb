@@ -15,7 +15,7 @@ This repository contains **Dockerfile** of [MongoDB](http://www.mongodb.org/) fo
     curl -sSL https://get.docker.com | sh
 
 ##### 2.Download Image
-   Download [automated build](https://hub.docker.com/r/negawattutl/mongo/) from public [Docker Hub Registry](https://hub.docker.com/): `docker pull dockerfile/mongodb`
+   Download [automated build](https://hub.docker.com/r/negawattutl/mongo/) from public [Docker Hub Registry](https://hub.docker.com/): `docker pull negawattutl/mongo`
     
    (alternatively, you can build an image from Dockerfile: `docker build -t="negawattutl/mongo" github.com/fishong/arm64v8-mongodb`)
 
