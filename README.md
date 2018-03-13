@@ -1,7 +1,7 @@
 ## arm64v8 MongoDB Dockerfile
 
 
-This repository contains **Dockerfile** of [MongoDB](http://www.mongodb.org/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/mongodb/)
+This repository contains **Dockerfile** of [MongoDB](http://www.mongodb.org/) for [Docker](https://www.docker.com/)'s [automated build](https://hub.docker.com/r/negawattutl/mongo/)
 
 
 ### Base Docker Image
